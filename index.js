@@ -2,7 +2,7 @@
 
 module.exports = {
   rules: {
-    'jsx-uses-react': require('./lib/rules/jsx-uses-react'),
+    'jsx-uses-deku': require('./lib/rules/jsx-uses-deku'),
     'no-multi-comp': require('./lib/rules/no-multi-comp'),
     'prop-types': require('./lib/rules/prop-types'),
     'display-name': require('./lib/rules/display-name'),
@@ -11,7 +11,7 @@ module.exports = {
     'no-danger': require('./lib/rules/no-danger'),
     'no-did-mount-set-state': require('./lib/rules/no-did-mount-set-state'),
     'no-did-update-set-state': require('./lib/rules/no-did-update-set-state'),
-    'react-in-jsx-scope': require('./lib/rules/react-in-jsx-scope'),
+    'deku-in-jsx-scope': require('./lib/rules/deku-in-jsx-scope'),
     'jsx-uses-vars': require('./lib/rules/jsx-uses-vars'),
     'jsx-no-undef': require('./lib/rules/jsx-no-undef'),
     'jsx-quotes': require('./lib/rules/jsx-quotes'),
@@ -26,7 +26,7 @@ module.exports = {
     'jsx-max-props-per-line': require('./lib/rules/jsx-max-props-per-line')
   },
   rulesConfig: {
-    'jsx-uses-react': 0,
+    'jsx-uses-deku': 0,
     'no-multi-comp': 0,
     'prop-types': 0,
     'display-name': 0,
@@ -35,7 +35,7 @@ module.exports = {
     'no-danger': 0,
     'no-did-mount-set-state': 0,
     'no-did-update-set-state': 0,
-    'react-in-jsx-scope': 0,
+    'deku-in-jsx-scope': 0,
     'jsx-uses-vars': 1,
     'jsx-no-undef': 0,
     'jsx-quotes': 0,
