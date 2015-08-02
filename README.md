@@ -1,9 +1,7 @@
 ESLint-plugin-Deku
 ===================
 
-[![Maintenance Status][status-image]][status-url] [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][deps-image]][deps-url] [![Coverage Status][coverage-image]][coverage-url] [![Code Climate][climate-image]][climate-url]
-
-Deku specific linting rules for ESLint
+Deku specific linting rules for ESLint.  Forked from yannickcr/eslint-plugin-react with slight modifications to support deku.
 
 # Installation
 
