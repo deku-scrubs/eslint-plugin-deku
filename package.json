@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-deku",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "author": "Andrew Shaffer",
   "description": "Deku specific linting rules for ESLint",
   "main": "index.js",
