@@ -1,7 +1,7 @@
 {
   "name": "eslint-plugin-deku",
   "version": "3.1.0",
-  "author": "Yannick Croissant <yannick.croissant+npm@gmail.com>",
+  "author": "Andrew Shaffer",
   "description": "Deku specific linting rules for ESLint",
   "main": "index.js",
   "scripts": {
@@ -18,10 +18,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yannickcr/eslint-plugin-deku"
+    "url": "https://github.com/deku-scrubs/eslint-plugin-deku"
   },
-  "homepage": "https://github.com/yannickcr/eslint-plugin-deku",
-  "bugs": "https://github.com/yannickcr/eslint-plugin-deku/issues",
+  "homepage": "https://github.com/deku-scrubs/eslint-plugin-deku",
+  "bugs": "https://github.com/deku-scrubs/eslint-plugin-deku/issues",
   "devDependencies": {
     "babel-eslint": "4.0.5",
     "coveralls": "2.11.3",
